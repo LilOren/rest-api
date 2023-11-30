@@ -1,0 +1,5 @@
+.env
+.env.prod
+coverage.out
+__debug*
+./**/__debug*
